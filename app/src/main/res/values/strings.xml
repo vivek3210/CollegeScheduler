@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">CollegeSchedulerProject</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_page_label">College Scheduler</string>
+    <string name="second_page_label">College Scheduler</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="welcome_message">
+        Welcome to the College Scheduler! Click on any of the following buttons to start!
+    </string>
+    <string name="all_classes">
+        Input the following information to get started! Press submit for each class you want to add.
+        Click next to view all classes currently inputted.
+    </string>
+    <string name="time">Time</string>
+    <string name="date">Date</string>
+    <string name="name">Name</string>
+    <string name="submit">Submit</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+
+
+    <string name="title_activity_exam_info">ExamInfo</string>
+    <string name="previouspushnotif">Previous</string>
+    <string name="selectpushnotifstring">Select whether you want to receive push notifications or not</string>
+    <string name="title_activity_test2">Test2</string>
+    <string name="added_classes_will_appear_here">Added classes will appear here</string>
+    <string name="subject_and_course_number">Subject:</string>
+    <string name="activty_list_hint">Enter a Task, Press a task to edit and long press to delete</string>
+    <string name="add">Add</string>
+    <string name="search">🔍Search</string>
+    <string name="examInfo_list_hint">MM/DD/YYY -EXAM INFO</string>
+</resources>
